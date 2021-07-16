@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 /**
  * 
- * POD6 -Audit Management System
+ * POD3 -Audit Management System
  * This is Application class for Spring boot
  *
  */
