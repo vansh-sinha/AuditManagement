@@ -16,7 +16,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /**
  * 
- * @author POD 5
+ * @author POD 3
  * @apiNote This class is used for the configuration and customization of
  * swagger. 
  * Swagger is used to describe and document RESTful APIs 
